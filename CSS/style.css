@@ -1,0 +1,39 @@
+h3{ 
+    color:black;
+    
+}
+body{
+    background-color: rgb(255, 253, 250);
+}
+a{
+    color:white;
+}
+.cars{
+    background-color: powderblue;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.design{
+    background-color: black;
+    border-radius:  5px;
+    
+}
+body{
+    background-color: #FAF7F0;
+}
+.look{
+    background-color: white;
+}
+h1{
+    color:black;
+}
+.contact{
+   text-align: left;
+    
+}
+h2{
+    color: black;
+    text-align: center;
+}
